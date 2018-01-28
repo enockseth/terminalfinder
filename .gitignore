@@ -1,0 +1,5 @@
+db.sqlite3
+*.pyc
+tango_with_django_19
+os
+tango_with_rango_project/rango/tests.py
