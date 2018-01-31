@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.gis',
     'terminal',
+    'phonenumber_field', # for phone number model fields
 ]
 
 MIDDLEWARE = [
